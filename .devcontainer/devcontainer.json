@@ -1,0 +1,15 @@
+{
+    "name": "Ambiente Web (Node.js)",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ritwickdey.LiveServer",
+                "esbenp.prettier-vscode",
+                "dbaeumer.vscode-eslint",
+                "mongodb.mongodb-vscode",
+                "dracula-theme.theme-dracula"
+                
+            ]
+        }
+    }
+}
